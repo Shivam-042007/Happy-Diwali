@@ -1,0 +1,19 @@
+/* basic styles for black background and crosshair cursor */
+body {
+	background: #000;
+	margin: 0;
+}
+
+canvas {
+	display: block;
+}.wish{
+    font-family: cursive;
+    right: 0;
+    left: 0;
+    color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+  top:200px;
+    text-align: center;
+    font-size: 2em;
+    text-align: center;
+}
